@@ -1,5 +1,5 @@
 # LinuxFirstConfiguration
-Primeiras configurações do linux [Debian], [Parrot]
+Primeiras configurações do linux [[Debian]], [[Parrot]]
 ## Debian
 configurar usuário padrão para permissão sudo
 ```shell
