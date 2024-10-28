@@ -1,5 +1,5 @@
 # LinuxFirstConfiguration
-Primeiras configurações do linux
+Primeiras configurações do linux [Debian], [Parrot]
 ## Debian
 configurar usuário padrão para permissão sudo
 ```shell
@@ -15,3 +15,6 @@ visudo
 #isso abrirá o arquivo /etc/sudoers. verificar se a linha existe:
 %sudo ALL=(ALL:ALL) ALL
 ```
+
+## Parrot
+
