@@ -1,5 +1,5 @@
 # LinuxFirstConfiguration
-Primeiras configurações do linux 
+Minhas configurações pessoais das primeiras configurações do linux 
 
 ## Debian
 configurar usuário padrão para permissão sudo
